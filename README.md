@@ -1,17 +1,22 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-(fill in your description and goals here)
+Succesfully request data from API's and store data into dataframes. Join the data into one dataset and put dataset into an SQLlite
+Database. 
 
 ## Process
-### (your step 1)
-### (your step 2)
+### Send an API request to citybikes API to get all bike stations in Toronto, and store results into a dataframe.
+### Send an API request to Foursquare API and yelp API for places in each stations lattitude/longitude. Parse through response and store details into a dataframe.
+### Explore data from both API results using visualizations.
+### Merged Yelp results with citybikes results into one table.
+### Stored the merged tables into an SQLite database
+### Attempting to create a simple linear regression model
 
 ## Results
-(fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
+Found that Yelp API provided better results as there were more columns and rows returned.
 
 ## Challenges 
-(discuss challenges you faced in the project)
+Sending API requests was time consuming and took a lot of troubleshooting.
 
 ## Future Goals
-(what would you do if you had more time?)
+Explore more columns in the datasets and create more visualizations and models to understand the data better.
