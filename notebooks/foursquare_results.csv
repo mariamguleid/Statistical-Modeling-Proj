@@ -1,0 +1,501 @@
+ID,place_name,rating,place_address
+1,Leslieville Farmers Market,9.1,150 Greenwood Ave
+1,Rorschach Brewing,8.7,1001 Eastern Ave
+1,Chick-N-Joy,7.5,1483 Queen St E
+1,Velotique,7.8,1592 Queen St E
+1,O Sushi,7.5,6 Coxwell Ave
+1,Woodbine Park,8.5,Queen St
+1,The Sidekick,8.8,1374 Queen St E
+1,The Burger's Priest,7.4,1636 Queen St E
+1,Casa Di Giorgios,7.4,1646 Queen St E
+1,British Style Fish & Chips,7.6,73 Coxwell Ave
+2,Balzac's Coffee Roasters,8.5,31 Powerhouse St
+2,Earlscourt Park Off-Leash Area,6.2,1200 Lansdowne Ave
+2,Rehearsal Factory,6.7,330 Geary Ave
+2,The Greater Good Bar,9.0,229 Geary Ave
+2,Tre Mari Bakery,9.0,1311 Saint Clair Ave W
+2,Earlscourt Park,7.5,1200 Lansdowne Ave
+2,Parallel,8.6,217 Geary Ave
+2,The Sovereign,7.3,1359 Davenport Rd
+2,North Of Brooklyn Pizzeria,7.6,229 Geary Ave
+2,Rio 40 Restaurant,8.4,1256 Saint Clair Ave W
+3,Velotique,7.8,1592 Queen St E
+3,O Sushi,7.5,6 Coxwell Ave
+3,Leslieville Farmers Market,9.1,150 Greenwood Ave
+3,Woodbine Park,8.5,Queen St
+3,The Burger's Priest,7.4,1636 Queen St E
+3,Casa Di Giorgios,7.4,1646 Queen St E
+3,Lcbo,7.2,1654 Queen St E
+3,Rorschach Brewing,8.7,1001 Eastern Ave
+3,British Style Fish & Chips,7.6,73 Coxwell Ave
+3,Chick-N-Joy,7.5,1483 Queen St E
+4,Elgin & Winter Garden Theatre Ctr,9.0,189 Yonge St
+4,Booster Juice,8.3,2 Queen St E
+4,George Restaurant,8.8,111C Queen St E
+4,The Carbon Bar,8.1,99 Queen St E
+4,St Michael's Cathedral,8.6,200 Church St
+4,Massey Hall,8.7,178 Victoria St
+4,Gyu-Kaku BBQ,8.9,81 Church St
+4,HomeSense,8.3,195 Yonge St
+4,Richmond Station,9.0,1 Richmond St W
+4,Terroni,8.7,57A Adelaide St E
+5,Black Eagle,8.1,457 Church St
+5,Woody's,8.2,467 Church St
+5,Hair of the Dog,8.3,425 Church St
+5,Churchmouse & Firkin,8.1,475 Church St
+5,Loblaws,8.7,60 Carlton St
+5,Glad Day Bookshop,8.2,499 Church St
+5,Betty Oliphant Theatre,8.2,400 Jarvis St
+5,The Blake House,7.9,449 Jarvis St
+5,Golden Greek,8.4,105 Carlton St
+5,Buddies in Bad Times Theatre,7.8,12 Alexander St
+6,Jimmy's Coffee,8.7,84 Gerrard St W
+6,Ilsc,9.0,443 University Ave
+6,Tim Hortons,8.3,70 Gerrard St W
+6,Rolltation,8.1,207 Dundas St W
+6,The Library Specialty Coffee,8.9,281 Dundas St W
+6,Neo Coffee Bar,8.2,770 Bay St
+6,Hailed Coffee,9.2,44 Gerrard St W
+6,The Queen and Beaver Public House,8.5,35 Elm St
+6,Gyubee Japanese Grill,8.1,157 Dundas St W
+6,Red Lobster,8.2,20 Dundas St E
+7,Red Lobster,8.2,20 Dundas St E
+7,Muji,8.2,595 Bay St
+7,The Queen and Beaver Public House,8.5,35 Elm St
+7,Chipotle Mexican Grill,8.3,323 Yonge St
+7,Five Guys Burgers & Fries,8.2,329 Yonge St
+7,Uniqlo,9.0,220 Yonge St
+7,Yonge-Dundas Square,8.4,40 Dundas St W
+7,Blaze Pizza,8.7,10 Dundas St E
+7,Hailed Coffee,9.2,44 Gerrard St W
+7,Gyubee Japanese Grill,8.1,157 Dundas St W
+8,Korean Village Restaurant,8.0,628 Bloor St W
+8,Hodo Kwaja,8.8,656 Bloor St W
+8,Just You,8.0,624 Bloor St W
+8,Sunrise House,8.3,661 Bloor St W
+8,Snakes & Lattes,8.6,600 Bloor St W
+8,Rustle & Still Café,8.6,605 Bloor St W
+8,Bloor Fruit Market,7.7,662 Bloor St W
+8,PAT Central Market,8.1,675 Bloor St W
+8,Basecamp Climbing,7.7,677 Bloor St W
+8,Buk Chang Dong Soon Tofu,8.4,691 Bloor St W
+9,Ramsden Park,8.4,1 Ramsden Rd
+9,Black Camel,9.0,4 Crescent Rd
+9,Greenhouse Juice Co,9.0,5 MacPherson Ave
+9,Toronto Public Library - Toronto Reference Library,9.0,789 Yonge St
+9,Page & Panel: the TCAF Shop,9.0,789 Yonge St
+9,Quanto Basta,7.8,1112 Yonge St
+9,Café Boulud,8.2,60 Yorkville Ave Four Seasons
+9,Balzac's Coffee,7.9,789 Yonge St
+9,Terroni,8.4,1095 Yonge St
+9,Trattoria Nervosa,8.9,75 Yorkville Ave
+10,Joso's,8.8,202 Davenport Rd
+10,MIMI Chinese,8.0,265 Davenport Rd
+10,Sotto Sotto Restaurant,8.1,116A Rd Ave
+10,Hare Krishna Temple,8.0,243 Ave Rd
+10,Whole Foods,8.5,87 Ave Rd
+10,Whole Hearth Bakery & Cafe,7.8,87 Ave Rd
+10,Playa Cabana,8.6,111 Dupont St
+10,Summer's Sweet Memories Inc,8.7,101 Yorkville Ave
+10,Ramsden Park,8.4,1 Ramsden Rd
+10,Alobar Yorkville,8.3,162 Cumberland St
+11,Page & Panel: the TCAF Shop,9.0,789 Yonge St
+11,Toronto Public Library - Toronto Reference Library,9.0,789 Yonge St
+11,Balzac's Coffee,7.9,789 Yonge St
+11,Café Boulud,8.2,60 Yorkville Ave Four Seasons
+11,Paramount Fine Foods,8.6,1250 Bay St
+11,Eataly Toronto,8.3,55 Bloor St W
+11,Trattoria Nervosa,8.9,75 Yorkville Ave
+11,Yamato Japanese Restaurant,8.7,18 Bellefair Ave
+11,Flo's Diner,7.5,70 Yorkville Ave
+11,Indigo,8.5,55 Bloor St W
+12,Lady Marmalade,7.7,265 Broadview Ave
+12,St John's Bakery,8.2,153 Broadview Ave
+12,Royal Canadian Curling Club,8.1,131 Broadview Ave
+12,Merchants of Green Coffee,9.0,2 Matilda St
+12,Hanoi 3 Seasons,8.5,588 Gerrard St E
+12,Pho House,8.4,610 Gerrard St E
+12,Rooftop at Broadview Hotel,8.2,106 Broadview Ave
+12,White Lily Diner,9.1,678 Queen St E
+12,Farside,8.1,600 Gerrard St E
+12,Andrea's Gerrard St. Bakery,8.3,635 Gerrard St E
+13,Chotto Matte,8.8,161 Bay St
+13,Hockey Hall of Fame,8.9,30 Yonge St
+13,Biff's Bistro,8.3,4 Front St E
+13,Ki Modern Japanese + Bar,8.2,181 Bay St
+13,Meridian Hall,8.0,1 Front St E
+13,Walrus Pub & Beer Hall,8.4,187 Bay St
+13,Pilot Coffee Roasters,8.6,65 Front St W
+13,The Keg Steakhouse + Bar,8.6,26 the Esplanade
+13,Wvrst Union Station,9.0,65 Front St W
+13,Dog Fountain,8.6,
+14,Riverdale Park West,9.1,500 Gerrard St
+14,Le Beau,8.7,665 Dundas St E
+14,Riverdale Farm,8.8,201 Winchester St
+14,Regent Park Aquatic Centre,8.4,640 Dundas St E
+14,Hanoi 3 Seasons,8.5,588 Gerrard St E
+14,Merchants of Green Coffee,9.0,2 Matilda St
+14,Park Snacks,7.6,161 Winchester St
+14,Pho House,8.4,610 Gerrard St E
+14,Farside,8.1,600 Gerrard St E
+14,Lady Marmalade,7.7,265 Broadview Ave
+15,Page One Cafe,8.9,106 Mutual St
+15,Hokkaido Ramen Santouka,8.2,91 Dundas St E
+15,St Michael's Cathedral,8.6,200 Church St
+15,Blaze Pizza,8.7,10 Dundas St E
+15,George Restaurant,8.8,111C Queen St E
+15,Massey Hall,8.7,178 Victoria St
+15,The Carbon Bar,8.1,99 Queen St E
+15,Uniqlo,9.0,220 Yonge St
+15,Yonge-Dundas Square,8.4,40 Dundas St W
+15,Kinka Izakaya,8.7,398 Church St
+16,Hailed Coffee,9.0,801 Gerrard St E
+16,The Real Jerk Restaurant,8.4,842 Gerrard St E
+16,Riverdale Perk,8.8,633 Logan Ave
+16,Pinkerton's Snack Bar,8.9,1026 Gerrard St E
+16,Rooster Coffee House,8.7,479 Broad View Ave
+16,Poor Romeo,7.8,1029 Gerrard St E
+16,Lady Marmalade,7.7,265 Broadview Ave
+16,Eds Real Scoop,9.0,920 Queen St E
+16,Withrow Park Off Leash Dog Park,8.4,Logan Ave
+16,Dineen Outpost,7.8,1042 Gerrard St E
+17,The Sovereign,7.3,1359 Davenport Rd
+17,Marcello's Pizzeria,8.7,1163 Saint Clair Ave W
+17,The Greater Good Bar,9.0,229 Geary Ave
+17,Shunoko,7.8,1201 St Clair Ave W
+17,King's Tacos,8.0,1216 Saint Clair Ave W
+17,Parallel,8.6,217 Geary Ave
+17,Pizza e Pazzi,7.8,1182 Saint Clair Ave W
+17,Desotos,8.5,1079 Saint Clair Ave W
+17,Blood Brothers Brewing,8.9,165 Geary Ave
+17,Big Slice Pizza & Pasta,7.6,1154 Saint Clair Ave W
+18,Eds Real Scoop,9.0,920 Queen St E
+18,Reliable Halibut & Chips,8.4,954 Queen St E
+18,Queen Books Inc,8.2,914 Queen St E
+18,The Bone House,8.0,946 Queen St E
+18,Mercury Espresso Bar,7.9,915 Queen St E
+18,Te Aro,8.9,983 Queen St E
+18,Brick Street Breads,7.6,255 Logan Ave
+18,Avling,7.6,1042 Queen St E
+18,Tabule,8.6,810 Queen St E
+18,Boxcar Social,8.9,4 Boulton Ave
+19,Blondies Pizza,8.4,1555 Dundas St E
+19,Greenwood Park,8.9,150 Greenwood Ave
+19,Tea N Bannock,8.1,1294 Gerrard St E
+19,The Sidekick,8.8,1374 Queen St E
+19,Maha's Fine Egyptian Cuisine,8.7,226 Greenwood Ave
+19,Le Conciliabule,8.1,1300 Gerrard St E
+19,Gio Rana's Really Really Nice Restaurant,8.0,1220 Queen St E
+19,Descendant Detroit Style Pizza,9.0,1168 Queen St E
+19,Black Lab Brewing,9.2,818 Eastern Ave
+19,Radical Road Brewing Co,8.1,1177 Queen St E
+20,Pinkerton's Snack Bar,8.9,1026 Gerrard St E
+20,Dineen Outpost,7.8,1042 Gerrard St E
+20,Poor Romeo,7.8,1029 Gerrard St E
+20,Maple Leaf Tavern,8.7,955 Gerrard St E
+20,Pizza Pide,7.9,949 Gerrard St E
+20,The Shmooz,7.8,590 Pape Ave
+20,Left Field Brewery,9.2,36 Wagstaff Dr
+20,The Real Jerk Restaurant,8.4,842 Gerrard St E
+20,Riverdale Perk,8.8,633 Logan Ave
+20,Withrow Park Off Leash Dog Park,8.4,Logan Ave
+21,Ascari Enoteca,8.5,1111 Queen St E
+21,Bobbette & Belle,8.7,1121 Queen St E
+21,Hanoi 3 Seasons,8.2,1135 Queen St E
+21,Completo,8.7,5 Coady Ave
+21,Te Aro,8.9,983 Queen St E
+21,Tango Palace Coffee Co,8.0,1156 Queen St E
+21,Farm Boy,8.0,1005 Lake Shore Blvd E
+21,Descendant Detroit Style Pizza,9.0,1168 Queen St E
+21,Avling,7.6,1042 Queen St E
+21,Sunshine Child Care Centre,,176 Leslie St
+22,Golden Pizza,7.3,1201 Broadview Ave
+22,Dollarama,6.7,1099 Broadview Ave
+22,Danish Pastry Shop,7.7,1017 Pape Ave
+22,Todmorden Mills Heritage Museum & Arts Centre,7.7,67 Pottery Rd
+22,The Greek Grill,7.7,128 O'Connor Dr
+22,Subway,6.4,1016 1/2 Pape Ave
+22,Shoppers Drug Mart,6.3,1012 Pape Ave
+22,Pottery Road Trailhead,8.0,100 Pottery Rd
+22,Serano Bakery,9.0,830 Pape Ave
+22,Anthi,8.1,824 Pape Ave
+23,Hokkaido Ramen Santouka,8.2,91 Dundas St E
+23,Blaze Pizza,8.7,10 Dundas St E
+23,Yonge-Dundas Square,8.4,40 Dundas St W
+23,Uniqlo,9.0,220 Yonge St
+23,Page One Cafe,8.9,106 Mutual St
+23,Chipotle Mexican Grill,8.3,323 Yonge St
+23,Five Guys Burgers & Fries,8.2,329 Yonge St
+23,St Michael's Cathedral,8.6,200 Church St
+23,Massey Hall,8.7,178 Victoria St
+23,CF Toronto Eaton Centre,8.5,220 Yonge St
+24,Page One Cafe,8.9,106 Mutual St
+24,Allan Gardens Conservatory,8.3,19 Horticultural Ave
+24,Allan Gardens Conservatory,8.5,19 Horticultural Ave
+24,Hokkaido Ramen Santouka,8.2,91 Dundas St E
+24,St Michael's Cathedral,8.6,200 Church St
+24,George Restaurant,8.8,111C Queen St E
+24,Kinka Izakaya,8.7,398 Church St
+24,The George Street Diner,8.7,129 George St
+24,Zakkushi,8.8,193 Carlton St
+24,Chew Chew's Diner,8.2,186 Carlton St
+25,Dentonia Park Golf Course,6.0,M1L Toronto
+25,Lcbo,6.5,3111 Danforth Ave
+25,Beer Store,6.1,3130 Danforth Ave
+25,Dentonia Park,7.1,Avonlea Blvd
+25,Ritz Caribbean Foods,,3003 Danforth Ave
+25,Metro,6.2,3003 Danforth Ave
+25,Tim Hortons,6.1,3003 Danforth Ave
+25,Bulk Barn,6.1,3003 Danforth Ave
+25,Starbucks,6.8,50 Musgrave St
+25,EB Games,5.7,3003A Danforth Ave
+26,Wychwood Barns Farmers' Market,8.6,601 Christie St
+26,Sea Witch Fish & Chips,7.5,636 Saint Clair Ave W
+26,CocoaLatte,7.9,671 Saint Clair Ave W
+26,Queen of Persia,7.9,672A St Clair Ave W
+26,Leah's Home Baking,7.0,621 St Clair Ave W
+26,Churrasco of St Clair,7.8,679 Saint Clair Ave W
+26,Baker and Scone,8.1,693 Saint Clair Ave W
+26,Dutch Dreams Icecream Parlor Toronto,8.2,36 Vaughan Rd
+26,Bar Ape,8.5,283 Rushton Rd
+26,Mezzetta Cafe Restaurant,6.3,681 Saint Clair Ave W
+27,Shoppers Drug Mart,6.9,1507 Yonge St
+27,Toronto Public Library,7.4,40 St Clair Ave E
+27,Union Social Eatery,7.5,21 Saint Clair Ave W
+27,Daeco Sushi,7.6,40 St Clair Ave W
+27,Starbucks,7.2,2 St Clair Ave E
+27,The Bagel House,8.4,1438 Yonge St
+27,Mary Be Kitchen,7.6,21B St Clair Ave W
+27,Mermaid Fish and Grill House,7.1,44 St Clair Ave E
+27,Subway,6.4,60 St Clair Ave E
+27,Capocaccia Cafe,8.0,1366 Yonge St
+28,Flaming Stove,7.6,21 Davisville Ave
+28,Bull & Firkin,7.0,1835 Yonge St
+28,Oriole Park,7.5,201 Oriole Pky
+28,Neshama Playground,7.2,
+28,Tabule Restaurant,8.1,2009 Yonge St
+28,La Salumeria,8.1,2021 Yonge St
+28,Balsamico,8.4,2029 Yonge St
+28,Little Sister,8.0,2031 Yonge St
+28,St. Louis Bar and Grill,7.4,2050 Yonge St
+28,June Rowlands Park,8.3,220 Davisville Ave
+29,Hunters Landing,7.3,82 Fort York Blvd
+29,Sansotei Ramen,8.3,115 Fort York Blvd
+29,Canoe Landing Park,7.5,50 Fort York Blvd
+29,Roywoods,8.4,121 Fort York Blvd
+29,Toronto Music Garden,9.1,475 Queens Quay W
+29,Touti Gelati and Cafe,8.0,550 Queens Quay W
+29,Toronto Public Library,8.5,190 Fort York Blvd
+29,Starbucks,8.2,10 Lower Spadina Ave
+29,Music Garden Cafe,7.6,466 Queens Quay W
+29,Le Select Bistro,8.9,432 Wellington St W
+30,L'Espresso Bar Mercurio,7.7,321 Bloor St W
+30,Gyubee,8.1,335 Bloor St W
+30,Coach House Books,7.9,80 Bpnichol Lane
+30,Royal Conservatory of Music,8.6,273 Bloor St W
+30,Starbucks,7.5,1 Beford Ave
+30,Philosopher's Walk,9.0,
+30,Fresh on Bloor,8.7,326 Bloor St W
+30,Trattoria Fieramosca,7.8,36A Prince Arthur Ave
+30,Morton's the Steakhouse,8.0,4 Rd Ave
+30,Tiffany & Co.,8.6,150 Bloor St W
+31,Sam James Coffee Bar,8.5,150 King St W
+31,King Taps,8.3,100 King St W
+31,Pizzeria Libretto,8.6,155 University Ave
+31,Hy's Steakhouse & Cocktail Bar,8.6,120 Adelaide St W
+31,Cafe Landwer,8.8,165 University Ave
+31,Pilot Coffee Roasters,8.6,100 King St W
+31,Cactus Club Cafe,8.6,77 Adelaide St W
+31,The Keg Steakhouse + Bar,8.7,165 York St
+31,Beertown Public House - Toronto,8.0,125 Wellington St W
+31,Bosk,8.4,188 University Ave
+32,Ilsc,9.0,443 University Ave
+32,Rolltation,8.1,207 Dundas St W
+32,The Library Specialty Coffee,8.9,281 Dundas St W
+32,Jimmy's Coffee,8.7,84 Gerrard St W
+32,Gyubee Japanese Grill,8.1,157 Dundas St W
+32,Art Gallery of Ontario,9.2,317 Dundas St W
+32,Tim Hortons,8.3,70 Gerrard St W
+32,Above Ground Art Supplies,8.6,74 McCaul St./1842 Queen St E./2868 Dundas St W
+32,Red Lobster,8.2,20 Dundas St E
+32,The Queen and Beaver Public House,8.5,35 Elm St
+33,Rosehill Reservoir,7.9,75 Rosehill Ave
+33,David A. Balfour Park,7.7,200 Mount Pleasant Rd
+33,The Bagel House,8.4,1438 Yonge St
+33,Kibo Sushi House,8.2,7 Walker Ave
+33,Nutbar,8.0,1240B Yonge St
+33,Boxcar Social,9.0,1208 Yonge St
+33,Lcbo,9.2,10 Scrivener Sq
+33,The Rosedale Diner,8.1,1164 Yonge St
+33,Terroni,8.4,1095 Yonge St
+33,The Market by Longo’s,7.8,111 St Clair Ave W
+34,Outpost Coffee Roasters,8.2,1578 Bloor St W
+34,Lcbo,7.4,2290 Dundas St W
+34,The Gaslight,8.6,1426 Bloor St W
+34,Cabin Fever Collective,8.9,1669 Bloor St W
+34,Bandit Brewery,8.6,2125 Dundas St W
+34,Rent Frock Repeat,8.1,35 Goldene Way
+34,Hula Girl Espresso Boutique,7.7,2473 Dundas St W
+34,Henderson Brewing Co,8.4,128A Sterling Rd
+34,Revue Cinema,8.7,400 Roncesvalles Ave
+34,La Cubana,8.6,392 Roncesvalles Ave
+35,Toronto Public Library,8.5,190 Fort York Blvd
+35,Roywoods,8.4,121 Fort York Blvd
+35,Sansotei Ramen,8.3,115 Fort York Blvd
+35,Tim Hortons,7.6,2 Bruyeres Mews
+35,Canoe Landing Park,7.5,50 Fort York Blvd
+35,Belgian Moon Brewery,8.5,28 Bathurst St
+35,Hunters Landing,7.3,82 Fort York Blvd
+35,Touti Gelati and Cafe,8.0,550 Queens Quay W
+35,Victoria Memorial Square,8.8,Wellington St W
+35,Toronto Music Garden,9.1,475 Queens Quay W
+36,Yasu,8.6,81 Harbord St
+36,The Dessert Kitchen,7.9,73 Harbord St
+36,Rasa,9.2,196 Robert St
+36,Her Father's Cider Bar + Kitchen,9.0,119 Harbord St
+36,Toronto Public Library,8.4,239 College St
+36,Pizza Fresca,8.1,302 College St
+36,Free Times,7.8,320 College St
+36,Café Pamenar,8.6,307 Augusta Ave
+36,Coach House Books,7.9,80 Bpnichol Lane
+36,Fresh on Bloor,8.7,326 Bloor St W
+37,Honest Weight,9.1,2766 Dundas St W
+37,TuckShop Kitchen,8.9,1640 Dupont St
+37,Baguette & Co,8.4,1643 Dupont St
+37,Mattachioni,8.8,1617 Dupont St
+37,The Organic Garage,7.9,43 Junction Rd
+37,The Den Toronto,8.5,1960 Davenport Rd
+37,Cafe Con Leche,8.0,1571 Dupont St
+37,The Hole in the Wall,8.9,2867A Dundas St W
+37,Indie Alehouse,9.0,2876 Dundas St W
+37,Nodo,9.0,2885 Dundas St W
+38,Outpost Coffee Roasters,8.2,1578 Bloor St W
+38,Lcbo,7.4,2290 Dundas St W
+38,Hula Girl Espresso Boutique,7.7,2473 Dundas St W
+38,The Gaslight,8.6,1426 Bloor St W
+38,Cabin Fever Collective,8.9,1669 Bloor St W
+38,Bandit Brewery,8.6,2125 Dundas St W
+38,Rent Frock Repeat,8.1,35 Goldene Way
+38,Propeller Coffee Co,8.7,50 Wade Ave
+38,The Mugshot Tavern,8.3,1729 Bloor St W
+38,Revue Cinema,8.7,400 Roncesvalles Ave
+39,Café Pamenar,8.6,307 Augusta Ave
+39,Free Times,7.8,320 College St
+39,Pizza Fresca,8.1,302 College St
+39,Trinity Common,8.0,303 Augusta Ave
+39,Voodoo Child,8.8,388 College St
+39,Wanda's Pie in the Sky,8.1,287 Augusta Ave
+39,El Trompo,8.4,277 Augusta Ave
+39,Cloak & Dagger Irish Pub,8.3,394 College St
+39,Blue Banana Market,8.0,250 Augusta Ave
+39,The Hogtown Vegan,7.4,382 College St
+40,Kinka Izakaya,8.7,398 Church St
+40,Loblaws,8.7,60 Carlton St
+40,Golden Greek,8.4,105 Carlton St
+40,Hair of the Dog,8.3,425 Church St
+40,Banh Mi Boys,9.1,399 Yonge St
+40,Marshalls,8.1,382 Yonge St
+40,Bulk Barn,7.7,2 Carlton St
+40,Allan Gardens Conservatory,8.5,19 Horticultural Ave
+40,Page One Cafe,8.9,106 Mutual St
+40,Hailed Coffee,9.2,44 Gerrard St W
+41,Touti Gelati and Cafe,8.0,550 Queens Quay W
+41,Toronto Music Garden,9.1,475 Queens Quay W
+41,Ireland Park,8.0,Queens Quay W
+41,Music Garden Cafe,7.6,466 Queens Quay W
+41,Little Norway Park,7.7,659 Queen St W
+41,Canoe Landing Park,7.5,50 Fort York Blvd
+41,Starbucks,8.2,10 Lower Spadina Ave
+41,Roywoods,8.4,121 Fort York Blvd
+41,Sansotei Ramen,8.3,115 Fort York Blvd
+41,Spadina Wave Deck,8.0,1 Spadina Cres
+42,Banh Mi Boys,9.1,399 Yonge St
+42,Marshalls,8.1,382 Yonge St
+42,Hailed Coffee,9.2,44 Gerrard St W
+42,Bulk Barn,7.7,2 Carlton St
+42,Tim Hortons,8.3,70 Gerrard St W
+42,W Burger Bar,7.6,10 College St
+42,Neo Coffee Bar,8.2,770 Bay St
+42,The Queen and Beaver Public House,8.5,35 Elm St
+42,Fran's Restaurant,7.4,20 College St
+42,Jimmy's Coffee,8.7,84 Gerrard St W
+43,Maple Leaf Square,8.6,15 York St
+43,Scotiabank Arena,8.7,50 Bay St
+43,McCafé,8.1,65 Front St W
+43,RS - Real Sports,8.2,15 York St
+43,Wvrst Union Station,9.0,65 Front St W
+43,Pilot Coffee Roasters,8.6,65 Front St W
+43,IQ Food Co,8.8,18 York St
+43,Sport Chek Maple Leaf Square,8.3,15 York St
+43,E11Even,8.2,15 York St
+43,REIGN Restaurant + Bar + Bakery,8.2,100 Front St W
+44,Chew Chew's Diner,8.2,186 Carlton St
+44,Red Cranberries Restaurant,9.1,601 Parliament St
+44,Zakkushi,8.8,193 Carlton St
+44,The Keg Steakhouse & Bar,8.7,515 Jarvis St
+44,The Blake House,7.9,449 Jarvis St
+44,Betty Oliphant Theatre,8.2,400 Jarvis St
+44,Stout Irish Pub,8.5,221E Carlton St
+44,Allan Gardens Conservatory,8.5,19 Horticultural Ave
+44,Allan Gardens Conservatory,8.3,19 Horticultural Ave
+44,House on Parliament,9.0,454 Parliament St
+45,Starbucks,8.2,10 Lower Spadina Ave
+45,Spadina Wave Deck,8.0,1 Spadina Cres
+45,WestJet Flight Deck,9.1,
+45,Toronto Music Garden,9.1,475 Queens Quay W
+45,Music Garden Cafe,7.6,466 Queens Quay W
+45,Hunters Landing,7.3,82 Fort York Blvd
+45,Canoe Landing Park,7.5,50 Fort York Blvd
+45,Sansotei Ramen,8.3,115 Fort York Blvd
+45,Roywoods,8.4,121 Fort York Blvd
+45,Le Select Bistro,8.9,432 Wellington St W
+46,Kid Icarus,8.9,205 Augusta Ave
+46,Grey Gardens,8.5,199 Augusta Ave
+46,Jimmy's Coffee,8.7,191 Baldwin St
+46,Seven Lives,8.7,69 Kensington Ave
+46,Patty King,8.7,187 Baldwin St
+46,Blackbird Baking Co,8.8,172 Baldwin St
+46,Film Cafe,8.6,230 Augusta Ave
+46,Ozzy's Burgers,8.5,66 Nassau St
+46,Little Pebbles,8.3,160 Baldwin St
+46,Dolce Gelato,8.0,234 Augusta Ave
+47,Henderson Brewing Co,8.4,128A Sterling Rd
+47,Sugo,8.6,1281 Bloor St W
+47,Sorauren Avenue Park,9.1,289 Sorauren Ave
+47,Linh Restaurant,8.7,1156 College St
+47,The 3 Speed,9.1,1163 Bloor St W
+47,The Gaslight,8.6,1426 Bloor St W
+47,Bandit Brewery,8.6,2125 Dundas St W
+47,Burdock,9.1,1184 Bloor St W
+47,Takht-e Tavoos,8.9,1120 College St
+47,Black Dice Cafe,8.4,1574 Dundas St W
+48,Sorauren Avenue Park,9.1,289 Sorauren Ave
+48,Mike's NOFRILLS Toronto,7.0,222 Lansdowne Ave
+48,Henderson Brewing Co,8.4,128A Sterling Rd
+48,Sunny Joes,8.2,250 Sorauren Ave
+48,I Deal Coffee,8.3,221 Sorauren Ave
+48,Rent Frock Repeat,8.1,35 Goldene Way
+48,Bandit Brewery,8.6,2125 Dundas St W
+48,Pizzeria Defina,9.2,321 Roncesvalles Ave
+48,The Chocolateria,8.8,361 Roncesvalles Ave
+48,Inter-Ster Restaurant,8.5,357 Roncesvalles Ave
+49,Mike's NOFRILLS Toronto,7.0,222 Lansdowne Ave
+49,Black Dice Cafe,8.4,1574 Dundas St W
+49,Linh Restaurant,8.7,1156 College St
+49,The Brockton Haunt,8.5,1150 College St
+49,Takht-e Tavoos,8.9,1120 College St
+49,Sorauren Avenue Park,9.1,289 Sorauren Ave
+49,Sunny Joes,8.2,250 Sorauren Ave
+49,Henderson Brewing Co,8.4,128A Sterling Rd
+49,I Deal Coffee,8.3,221 Sorauren Ave
+49,Easy Tiger Goods,8.8,1447 Dundas St W
+50,The Caledonian,8.4,856 College St
+50,Bar Isabel,9.0,797 College St
+50,Fred Hamilton Playground,8.0,
+50,The Emmet Ray,8.2,924 College St
+50,Folly Brewpub,8.2,928 College St
+50,YamChops,8.4,705 College St
+50,Giulietta,8.4,972 College St
+50,Terrazza,8.3,372 Harbord St
+50,Hanmoto,8.9,2 Lakeview Ave
+50,Communist's Daughter,8.4,1149 Dundas St W

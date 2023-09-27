@@ -1,0 +1,1001 @@
+ID,place_name,rating,place_address
+1,O Sushi,4.0,6 Coxwell Avenue
+1,Lake Inez,4.5,1471 Gerrard Street E
+1,The Burger's Priest,3.5,1636 Queen Street E
+1,Jaclyn's,4.5,1588 Queen Street E
+1,Burrito Bandidos,3.5,1614 Queen Street E
+1,Casa Di Giorgios,4.0,1646 Queen St E
+1,Maha's,4.0,226 Greenwood Avenue
+1,McDonald's,2.5,29-31 Woodward Avenue
+1,Lahore Tikka House,3.5,1365 Gerrard Street E
+1,Leslie Jones,4.0,1182 Queen Street E
+1,Tea N Bannock,4.5,1294 Gerrard Street E
+1,The Sidekick,4.5,1374 Queen Street E
+1,Eulalie's Corner Store,4.5,1438 Gerrard Street E
+1,Yaya Greek Bistro,4.0,1186 Queen Street E
+1,Lazy Daisy's Cafe,4.0,1515 Gerrard Street E
+1,Gio Rana's Really Really Nice Restaurant,4.0,1220 Queen Street East
+1,Nodo Leslieville,4.0,1192 Queen Street East
+1,Chick-N-Joy,4.0,1483 Queen Street E
+1,Udupi Palace,3.5,1460 Gerrard Street E
+1,Regency Restaurant,4.0,1423 Gerrard Street E
+2,Agio,4.5,1351 St Clair Avenue W
+2,Rush Hour,4.5,1438A Dufferin Street
+2,Love Chix,4.0,33 Powerhouse Street
+2,CANO Restaurant,4.5,1108 St Clair Avenue W
+2,Barista & Chef,4.5,1006 Saint Clair Avenue W
+2,Famiglia Baldassarre,4.5,122 Geary Avenue
+2,Tre Mari Bakery,4.5,1311 Saint Clair Avenue W
+2,Pizza e Pazzi,4.0,1182 St Clair Avenue W
+2,Rio 40 Restaurant,4.0,1256 Saint Clair Avenue West
+2,Marcello’s pizzeria,4.0,1163 Saint Clair Avenue W
+2,Good Behaviour,4.5,342 Westmoreland Avenue N
+2,Tuckshop Kitchen,4.5,1640 Dupont Street
+2,Parallel,4.0,217 Geary Avenue
+2,The Sovereign,4.5,1359 Davenport Road
+2,Atomic 10,4.5,145 Lauder Ave
+2,Khmer Thai Restaurant,4.0,1018 St Clair Avenue W
+2,DeSotos Eatery,4.0,1079 St Clair Avenue West
+2,King's Tacos,4.0,1190 St Clair Avenue W
+2,The Greater Good Bar,4.0,229 Geary Avenue
+2,Frank’s Pizza House,3.5,1352 St Clair Avenue W
+3,Casa Di Giorgios,4.0,1646 Queen St E
+3,O Sushi,4.0,6 Coxwell Avenue
+3,The Burger's Priest,3.5,1636 Queen Street E
+3,Burrito Bandidos,3.5,1614 Queen Street E
+3,Jaclyn's,4.5,1588 Queen Street E
+3,Lake Inez,4.5,1471 Gerrard Street E
+3,Maha's,4.0,226 Greenwood Avenue
+3,Lahore Tikka House,3.5,1365 Gerrard Street E
+3,Tea N Bannock,4.5,1294 Gerrard Street E
+3,Eulalie's Corner Store,4.5,1438 Gerrard Street E
+3,Lazy Daisy's Cafe,4.0,1515 Gerrard Street E
+3,Sauvignon Bistro,4.0,1862 Queen Street E
+3,Udupi Palace,3.5,1460 Gerrard Street E
+3,McDonald's,2.5,29-31 Woodward Avenue
+3,The Sidekick,4.5,1374 Queen Street E
+3,Regency Restaurant,4.0,1423 Gerrard Street E
+3,Le Conciliabule,4.5,1300 Gerrard Street E
+3,Butter Chicken Roti,2.5,1610 Queen Street E
+3,British Style Fish & Chips,4.0,73 Coxwell Avenue
+3,Jules Bistro,3.5,1290 Queen St E
+4,Richmond Station,4.5,1 Richmond Street W
+4,George Restaurant,4.5,111 Queen Street E
+4,The Carbon Bar,4.0,99 Queen Street East
+4,Terroni,3.5,57A Adelaide Street E
+4,Pearl Diver,4.0,100 Adelaide Street E
+4,Beerbistro,4.0,18 King Street E
+4,Pai Northern Thai Kitchen,4.5,18 Duncan Street
+4,Carisma,4.0,15 Toronto Street
+4,Hendriks Restaurant & Bar,4.0,218 Yonge Street
+4,Byblos,4.5,11 Duncan Street
+4,Cafe Oro Di Napoli,4.5,75 Jarvis Street
+4,Hokkaido Ramen Santouka,4.0,91 Dundas Street E
+4,The Chase,3.5,10 Temperance Street
+4,Nami Restaurant,3.5,55 Adelaide Street East
+4,Gyu-Kaku Japanese BBQ,4.0,81 Church Street
+4,The Keg Steakhouse + Bar - York Street,4.0,165 York Street
+4,King Taps,4.0,100 King Street W
+4,Eggspectation,4.0,483 Bay Street
+4,Leña Restaurante,3.5,176 Yonge Street
+4,The Senator,4.0,249 Victoria Street
+5,Kintaro Izakaya,4.0,459 Church Street
+5,Hair of the Dog,4.0,425 Church Street
+5,KINKA IZAKAYA ORIGINAL,4.0,398 Church Street
+5,Si Lom Thai Bistro,4.0,534 Church Street
+5,KINTON RAMEN,4.0,396 Church Street
+5,The Keg Steakhouse + Bar,4.0,515 Jarvis Street
+5,Storm Crow Manor,4.0,580 Church Street
+5,Afuri,4.0,411 Church Street
+5,Sambucas On Church,3.5,489 Church Street
+5,Katsuya,4.5,66 Gerrard Street E
+5,Kawa Sushi,3.5,451 Church Street
+5,Gurume Sushi,5.0,45 Carlton Street
+5,The Churchmouse: A Firkin Pub,3.5,475 Church Street
+5,Burrito Bandidos,4.0,2 Grosvenor Street
+5,Torch Pressed Sushi,4.5,507 Church St
+5,Fushimi,3.5,491 Church Street
+5,Zakkushi On Carlton,4.0,193 Carlton Street
+5,The Blake House,4.0,449 Jarvis Street
+5,Mr.Tonkatsu,4.0,548 Yonge Street
+5,Mabu Generation,4.0,575 Yonge Street
+6,Richmond Station,4.5,1 Richmond Street W
+6,Dzo Viet Eatery,4.0,308 Dundas Street W
+6,Sansotei Ramen,4.0,179 Dundas Street W
+6,Omai Restaurant,4.0,3 Baldwin Street
+6,Koh Lipe,4.0,35 Baldwin Street
+6,Mercatto,3.5,101 College Street
+6,The Keg Steakhouse + Bar - York Street,4.0,165 York Street
+6,Adega Restaurante,4.0,33 Elm St
+6,Gyubee Japanese Grill - Dundas,4.5,157 Dundas St W
+6,Mogouyan Hand-Pulled Noodles,4.5,124 Dundas St W
+6,The Queen And Beaver Public House,4.0,35 Elm Street
+6,Ikkousha Ramen,4.5,249 Queen Street W
+6,Banh Mi Boys,4.0,399 Yonge Street
+6,Saigon Lotus,4.5,6 St Andrew Street
+6,KINKA IZAKAYA ORIGINAL,4.0,398 Church Street
+6,Manpuku Japanese Eatery,4.0,105 McCaul Street
+6,1915 Lan Zhou Ramen,4.0,185 Dundas Street W
+6,Katsuya,4.5,66 Gerrard Street E
+6,Beerbistro,4.0,18 King Street E
+6,Café La Gaffe,3.5,24 Baldwin Street
+7,The Queen And Beaver Public House,4.0,35 Elm Street
+7,Richmond Station,4.5,1 Richmond Street W
+7,Adega Restaurante,4.0,33 Elm St
+7,Mogouyan Hand-Pulled Noodles,4.5,124 Dundas St W
+7,Blaze Pizza,4.5,10 Dundas St. East
+7,Donatello Restaurant,4.0,37 Elm Street
+7,Barberian's Steak House,4.0,7 Elm Street
+7,Konjiki Ramen Downtown,4.0,41 Elm Street
+7,Moon Palace,4.0,40 Dundas Street W
+7,DonDon Izakaya,3.0,130 Dundas Street West
+7,Pai Northern Thai Kitchen,4.5,18 Duncan Street
+7,JOEY Eaton Centre,3.5,1 Dundas St W
+7,Salad King Restaurant,3.5,340 Yonge Street
+7,Congee Queen,4.0,360 Yonge Street
+7,Banh Mi Boys,4.0,399 Yonge Street
+7,Sansotei Ramen,4.0,179 Dundas Street W
+7,Thai On Yonge,4.0,370 Yonge Street
+7,Bangkok Garden Restaurant,3.0,18 Elm Street
+7,KINKA IZAKAYA ORIGINAL,4.0,398 Church Street
+7,Gyubee Japanese Grill - Dundas,4.5,157 Dundas St W
+8,Daldongnae Korean BBQ - Christie,4.5,658 Bloor Street
+8,Yummy Korean Food Restaurant,4.0,620 Bloor Street W
+8,Korean Village Restaurant,4.0,628 Bloor Street W
+8,Buk Chang Dong Soon Tofu,4.0,691 Bloor Street W
+8,KINKA IZAKAYA ANNEX,4.0,559 Bloor St W
+8,Sunrise House,4.0,661 Bloor Street W
+8,Insomnia Restaurant & Lounge,4.0,563 Bloor Street W
+8,Hancook Cheese Dakgalbi,4.0,605 Bloor Street W
+8,MaMa Chef Korean Restaurant,4.0,648 Bloor Street W
+8,Paldo Gangsan,4.5,694 Bloor Street  W
+8,Ninetails Coffee Bar,4.5,651 Bloor Street W
+8,KINTON RAMEN,3.5,668 Bloor Street W
+8,Snakes & Lattes Annex,4.0,600 Bloor Street W
+8,Her Chef,4.5,599 Bloor Street W
+8,Arisu Korean BBQ & Sushi,3.5,584 Bloor Street W
+8,Rasa,4.5,196 Robert Street
+8,Kintori Yakitori Izakaya,3.5,668 Bloor Street W
+8,Mr.Tonkatsu,4.0,520 Bloor Street W
+8,Hodo Kwaja,4.5,656 Bloor Street W
+8,Yasu,4.5,81 Harbord Street
+9,Mineral,4.5,1027 Yonge Street
+9,Joso's,4.5,202 Davenport Road
+9,Portici,4.0,6 Scollard Street
+9,Trattoria Nervosa,4.0,75 Yorkville Avenue
+9,The Keg Steakhouse + Bar,4.0,515 Jarvis Street
+9,PLANTA Yorkville,4.0,1221 Bay Street
+9,Scaramouche Restaurant Pasta Bar & Grill,4.5,1 Benvenuto Place
+9,Café Boulud,3.5,60 Yorkville Avenue
+9,Black Camel,4.5,4 Crescent Road
+9,Lee Chen Bistro,3.5,813 Yonge Street
+9,Blu Ristorante,4.0,90 Avenue Road
+9,Playa Cabana,4.0,111 Dupont Street
+9,Happy Burger,4.5,881 Yonge Street
+9,Kiro Sushi,4.0,4 Collier Street
+9,Bhoj Indian Cuisine,4.0,21 Davenport Road
+9,The Rebel House,3.5,1068 Yonge Street
+9,Sassafraz,3.5,100 Cumberland Street
+9,Utsav,4.0,69 Yorkville Ave
+9,Fieramosca,4.5,36A Prince Arthur Avenue
+9,The Oxley,4.0,121 Yorkville Avenue
+10,Joso's,4.5,202 Davenport Road
+10,Ristorante Sotto Sotto,4.0,120 Avenue Road
+10,Osteria Giulia,4.5,134 Avenue Road
+10,Blu Ristorante,4.0,90 Avenue Road
+10,Playa Cabana,4.0,111 Dupont Street
+10,Scaramouche Restaurant Pasta Bar & Grill,4.5,1 Benvenuto Place
+10,Mimi Chinese,4.0,265 Davenport Road
+10,The Oxley,4.0,121 Yorkville Avenue
+10,Le Paradis Brasserie Bistro,3.5,166 Bedford Road
+10,Trattoria Nervosa,4.0,75 Yorkville Avenue
+10,Fieramosca,4.5,36A Prince Arthur Avenue
+10,Pisac Peruvian Bistro,4.5,16 Dupont St
+10,PLANTA Yorkville,4.0,1221 Bay Street
+10,Figures,3.5,137 Avenue Road
+10,Sassafraz,3.5,100 Cumberland Street
+10,Gyubee Japanese Grill - Bloor,4.0,335 Bloor Street W
+10,Mineral,4.5,1027 Yonge Street
+10,Café Boulud,3.5,60 Yorkville Avenue
+10,Opus Restaurant,4.0,37 Prince Arthur Avenue
+10,Utsav,4.0,69 Yorkville Ave
+11,PLANTA Yorkville,4.0,1221 Bay Street
+11,Portici,4.0,6 Scollard Street
+11,Trattoria Nervosa,4.0,75 Yorkville Avenue
+11,Eataly Toronto,3.5,55 Bloor Street W
+11,Café Boulud,3.5,60 Yorkville Avenue
+11,Sassafraz,3.5,100 Cumberland Street
+11,Lee Chen Bistro,3.5,813 Yonge Street
+11,Cafe Landwer - Yonge & Bloor,4.0,33 Bloor St E
+11,The Oxley,4.0,121 Yorkville Avenue
+11,Mogouyan Hand-Pulled Noodles,4.0,760 Yonge Street
+11,Utsav,4.0,69 Yorkville Ave
+11,Naan & Kabob,4.0,691 Yonge Street
+11,Buca Yorkville,4.0,53 Scollard Street
+11,Kiro Sushi,4.0,4 Collier Street
+11,The Keg Steakhouse + Bar,4.0,515 Jarvis Street
+11,holts café,3.5,50 Bloor Street West
+11,Joso's,4.5,202 Davenport Road
+11,Bhoj Indian Cuisine,4.0,21 Davenport Road
+11,Jack Astor’s,3.0,2 Bloor Street East
+11,Dynasty Chinese Cuisine,3.0,69 Yorkville Avenue
+12,Lady Marmalade,4.0,265 Broadview Avenue
+12,White Lily Diner,4.5,678 Queen Street E
+12,The Comrade,4.0,758 Queen Street E
+12,Completo,4.5,337 Broadview Ave
+12,Tabule Middle Eastern Cuisine,4.0,810 Queen Street  E
+12,Wok & Roast Chinese BBQ,3.5,349 Broadview Ave
+12,O’SOMAE,4.5,357 Broadview Ave
+12,La Carnita,3.5,780 Queen Street E
+12,ēst Restaurant,4.0,729 Queen Street E
+12,Dine & Dim,4.5,633 Gerrard St E
+12,Oji Seichi,4.0,354 Broadview Avenue
+12,Brickworks Cider House,4.0,709 Queen Street E
+12,Riverside Burgers,4.5,688 Queen St E
+12,Eastside Social,4.5,1008 Queen Street E
+12,Mi Mi Restaurant,4.0,686A Gerrard Street E
+12,Gusto 501,4.0,501 King Street E
+12,Batifole Restaurant,4.0,744 Gerrard Street E
+12,Wynona,4.5,819 Gerrard Street E
+12,Isaan Der,4.0,730 Queen St E
+12,Souk Tabule,4.5,494 Front Street E
+13,Richmond Station,4.5,1 Richmond Street W
+13,Pai Northern Thai Kitchen,4.5,18 Duncan Street
+13,Chotto Matte,4.0,161 Bay Street
+13,Beerbistro,4.0,18 King Street E
+13,The Keg Steakhouse + Bar - Esplanade,4.0,26 The Esplanade
+13,Canoe,4.0,66 Wellington Street  W
+13,Jump Restaurant,3.5,18 Wellington Street W
+13,The Old Spaghetti Factory,3.5,54 The Esplanade
+13,Biff's Bistro,3.5,4 Front Street  E
+13,Library Bar,4.0,100 Front Street W
+13,King Taps,4.0,100 King Street W
+13,Ki Modern Japanese + Bar,3.5,181 Bay Street
+13,Byblos,4.5,11 Duncan Street
+13,Oliver & Bonacini Café Grill,3.0,33 Yonge Street
+13,Cactus Club Cafe,4.0,77 Adelaide Street W
+13,Bymark,3.5,66 Wellington Street W
+13,Miku,4.0,105-10 Bay Street
+13,The Keg Steakhouse + Bar - York Street,4.0,165 York Street
+13,WVRST Union Station,4.0,65 Front Street West
+13,Real Sports,3.5,15 York Street
+14,The House On Parliament,4.0,454 Parliament Street
+14,Zakkushi On Carlton,4.0,193 Carlton Street
+14,Stout Irish Pub,4.0,221 Carlton Street
+14,White Lily Diner,4.5,678 Queen Street E
+14,Saigon PAI,4.5,446 Parliament Street
+14,The Comrade,4.0,758 Queen Street E
+14,Tabule Middle Eastern Cuisine,4.0,810 Queen Street  E
+14,Maya Bay Thai,4.5,252 Carlton Street
+14,Lady Marmalade,4.0,265 Broadview Avenue
+14,Batifole Restaurant,4.0,744 Gerrard Street E
+14,O’SOMAE,4.5,357 Broadview Ave
+14,Oji Seichi,4.0,354 Broadview Avenue
+14,Completo,4.5,337 Broadview Ave
+14,Mi Mi Restaurant,4.0,686A Gerrard Street E
+14,La Carnita,3.5,780 Queen Street E
+14,ēst Restaurant,4.0,729 Queen Street E
+14,F'Amelia,3.5,12 Amelia Street
+14,Wok & Roast Chinese BBQ,3.5,349 Broadview Ave
+14,Brickworks Cider House,4.0,709 Queen Street E
+14,Salt and Tobacco,4.5,521 Parliament Street
+15,Richmond Station,4.5,1 Richmond Street W
+15,Hokkaido Ramen Santouka,4.0,91 Dundas Street E
+15,Gyukatsu Kyoto Katsugyu,4.0,134 Dundas Street E
+15,George Restaurant,4.5,111 Queen Street E
+15,KINKA IZAKAYA ORIGINAL,4.0,398 Church Street
+15,Page One,4.0,106 Mutual Street
+15,Katsuya,4.5,66 Gerrard Street E
+15,J San Sushi Bar,4.5,186 Jarvis Street
+15,Blaze Pizza,4.5,10 Dundas St. East
+15,The Carbon Bar,4.0,99 Queen Street East
+15,Pearl Diver,4.0,100 Adelaide Street E
+15,The Keg Steakhouse + Bar - York Street,4.0,165 York Street
+15,KINTON RAMEN,4.0,396 Church Street
+15,Beerbistro,4.0,18 King Street E
+15,Cafe Oro Di Napoli,4.5,75 Jarvis Street
+15,Zakkushi On Carlton,4.0,193 Carlton Street
+15,The Senator,4.0,249 Victoria Street
+15,Banh Mi Boys,4.0,399 Yonge Street
+15,Egg Club,4.5,88 Dundas Street E
+15,Adega Restaurante,4.0,33 Elm St
+16,The Real Jerk,3.5,842 Gerrard Street E
+16,Wynona,4.5,819 Gerrard Street E
+16,Batifole Restaurant,4.0,744 Gerrard Street E
+16,Gare De L'est,3.5,1190 Dundas Street E
+16,Mi Mi Restaurant,4.0,686A Gerrard Street E
+16,Ascari,4.0,1111 Queen Street E
+16,Maple Leaf Tavern,4.0,955 Gerrard Street E
+16,Hailed Coffee,4.5,801 Gerrard Street E
+16,Chula Taberna Mexicana,4.0,1058 Gerrard Street E
+16,Eastside Social,4.5,1008 Queen Street E
+16,White Lily Diner,4.5,678 Queen Street E
+16,Tabule Middle Eastern Cuisine,4.0,810 Queen Street  E
+16,The Comrade,4.0,758 Queen Street E
+16,Bach Yen,4.0,738 Gerrard Street E
+16,Lady Marmalade,4.0,265 Broadview Avenue
+16,Maker Pizza,4.5,105A - 388 Carlaw Avenue
+16,Dine & Dim,4.5,633 Gerrard St E
+16,EAT BKK Thai Kitchen,4.0,898 Queen Street E
+16,CrowdedHouse,4.5,1161 Queen Street E
+16,Ed's Real Scoop,4.5,920 Queen St E
+17,Rush Hour,4.5,1438A Dufferin Street
+17,Agio,4.5,1351 St Clair Avenue W
+17,The Sovereign,4.5,1359 Davenport Road
+17,CANO Restaurant,4.5,1108 St Clair Avenue W
+17,Nodo Restaurant,4.5,794 Saint Clair Avenue W
+17,Pukka,4.0,778 St. Clair Avenue W
+17,Marcello’s pizzeria,4.0,1163 Saint Clair Avenue W
+17,Barista & Chef,4.5,1006 Saint Clair Avenue W
+17,Emma's Country Kitchen,4.0,810 Saint Clair Avenue W
+17,Famiglia Baldassarre,4.5,122 Geary Avenue
+17,Pizza e Pazzi,4.0,1182 St Clair Avenue W
+17,Rio 40 Restaurant,4.0,1256 Saint Clair Avenue West
+17,FK,4.5,770 St Clair Avenue W
+17,Atomic 10,4.5,145 Lauder Ave
+17,Aviv Immigrant Kitchen,4.5,779 St. Clair Avenue W
+17,Good Behaviour,4.5,342 Westmoreland Avenue N
+17,DeSotos Eatery,4.0,1079 St Clair Avenue West
+17,Tre Mari Bakery,4.5,1311 Saint Clair Avenue W
+17,King's Tacos,4.0,1190 St Clair Avenue W
+17,Parallel,4.0,217 Geary Avenue
+18,Descendant Detroit Style Pizza,4.5,1168 Queen Street E
+18,Eastside Social,4.5,1008 Queen Street E
+18,EAT BKK Thai Kitchen,4.0,898 Queen Street E
+18,Ascari,4.0,1111 Queen Street E
+18,Leslieville Pumps,4.0,913 Queen Street E
+18,Barrio Cerveceria,3.0,884 Queen Street E
+18,Tabule Middle Eastern Cuisine,4.0,810 Queen Street  E
+18,Ed's Real Scoop,4.5,920 Queen St E
+18,Baldini Restaurant,3.5,1012 Queen Street E
+18,The Comrade,4.0,758 Queen Street E
+18,White Lily Diner,4.5,678 Queen Street E
+18,Purple Penguin Cafe,4.0,889 Queen Street E
+18,Wynona,4.5,819 Gerrard Street E
+18,Radical Road Brewing,4.5,1177 Queen Street E
+18,Goods & Provisions,4.0,1124 Queen Street E
+18,Batifole Restaurant,4.0,744 Gerrard Street E
+18,CrowdedHouse,4.5,1161 Queen Street E
+18,Leslie Jones,4.0,1182 Queen Street E
+18,The Roy Public House,3.5,894 Queen Street E
+18,Frankie's,4.0,892 Queen Street E
+19,Descendant Detroit Style Pizza,4.5,1168 Queen Street E
+19,Lake Inez,4.5,1471 Gerrard Street E
+19,Blondies,4.0,1555 Dundas Street E
+19,Ascari,4.0,1111 Queen Street E
+19,Chula Taberna Mexicana,4.0,1058 Gerrard Street E
+19,Maha's,4.0,226 Greenwood Avenue
+19,Leslie Jones,4.0,1182 Queen Street E
+19,Tea N Bannock,4.5,1294 Gerrard Street E
+19,Radical Road Brewing,4.5,1177 Queen Street E
+19,Eastside Social,4.5,1008 Queen Street E
+19,Yaya Greek Bistro,4.0,1186 Queen Street E
+19,Kibo Sushi House,4.0,1169 Queen Street E
+19,Jules Bistro,3.5,1290 Queen St E
+19,CrowdedHouse,4.5,1161 Queen Street E
+19,Lahore Tikka House,3.5,1365 Gerrard Street E
+19,Gio Rana's Really Really Nice Restaurant,4.0,1220 Queen Street East
+19,Nodo Leslieville,4.0,1192 Queen Street East
+19,Goods & Provisions,4.0,1124 Queen Street E
+19,Le Conciliabule,4.5,1300 Gerrard Street E
+19,Completo,4.5,5 Coady Avenue
+20,Chula Taberna Mexicana,4.0,1058 Gerrard Street E
+20,Mezes,4.0,456 Danforth Avenue
+20,Pizzeria Libretto Danforth,4.0,550 Danforth Avenue
+20,Simone's Caribbean Restaurant,4.5,596 Danforth Avenue
+20,Great Burger Kitchen,3.5,1056 Gerrard Street E
+20,Maha's,4.0,226 Greenwood Avenue
+20,Hype Food,4.5,1060 Gerrard St E
+20,Souv Like,4.5,708 Pape Avenue
+20,Athens Restaurant,4.0,707 Danforth Avenue
+20,Maple Leaf Tavern,4.0,955 Gerrard Street E
+20,Wynona,4.5,819 Gerrard Street E
+20,Mr Pide,4.5,800 Danforth Avenue
+20,Messini Authentic Gyros,3.5,445 Danforth Avenue
+20,Batifole Restaurant,4.0,744 Gerrard Street E
+20,Sakawa Coffee & Japanese Restaurant,4.0,867 Danforth Ave
+20,Anglr,4.0,1054 Gerrard Street E
+20,Tea N Bannock,4.5,1294 Gerrard Street E
+20,Athens Pastries,4.5,509 Danforth Avenue
+20,The Real Jerk,3.5,842 Gerrard Street E
+20,Soulas Modern Greek Cuisine,4.0,500 A Danforth Avenue
+21,Descendant Detroit Style Pizza,4.5,1168 Queen Street E
+21,Ascari,4.0,1111 Queen Street E
+21,Goods & Provisions,4.0,1124 Queen Street E
+21,La Paella,4.0,1146 Queen Street E
+21,Eastside Social,4.5,1008 Queen Street E
+21,Greta Solomon's,4.0,1118 Queen Street E
+21,CrowdedHouse,4.5,1161 Queen Street E
+21,Pasaj,4.0,1100 Queen Street E
+21,Completo,4.5,5 Coady Avenue
+21,Radical Road Brewing,4.5,1177 Queen Street E
+21,Kibo Sushi House,4.0,1169 Queen Street E
+21,Leslie Jones,4.0,1182 Queen Street E
+21,Hanoi 3 Seasons,3.5,1135 Queen St E
+21,Tabule Middle Eastern Cuisine,4.0,810 Queen Street  E
+21,Baldini Restaurant,3.5,1012 Queen Street E
+21,Yaya Greek Bistro,4.0,1186 Queen Street E
+21,Wynona,4.5,819 Gerrard Street E
+21,Ed's Real Scoop,4.5,920 Queen St E
+21,Bobbette & Belle,3.5,1121 Queen Street E
+21,EAT BKK Thai Kitchen,4.0,898 Queen Street E
+22,Golden Pizza,3.5,1201 Av Broadview
+22,Pape Village,4.5,942 Pape Ave
+22,The Greek Grill,4.0,128 O'Connor Drive
+22,Pho Challenge,3.5,1025 Pape Ave
+22,Hanamaru,4.5,862 Pape Avenue
+22,Serano Bakery,4.0,830 Pape Avenue
+22,Shawarma Frenzy,4.5,1011 Pape Avenue
+22,La Grotta Pizzeria,3.5,951 Pape Ave
+22,Steady's Jamaican Home Cooking,4.5,852 Pape Avenue
+22,The Donlands Diner,3.5,417 Donlands Avenue
+22,Cafe Belong,3.0,550 Bayview Avenue
+22,Goat Coffee Co,4.0,893 Pape Avenue
+22,Cafe Serano,4.0,1055 Pape Avenue
+22,Captain John Donlands Fish and Chips,4.0,373 Donlands Avenue
+22,Brother's Pizza and Wings,4.0,976A Pape Avenue
+22,Select Bakery,4.0,405 Donlands Avenue
+22,Simba Grill,3.5,375 Donlands Avenue
+22,Ritz Restaurant,4.0,310 Donlands Avenue
+22,Dairy Queen Grill & Chill,3.0,1040 Broadview Ave
+22,kings drive in,3.5,919 Pape Ave
+23,Richmond Station,4.5,1 Richmond Street W
+23,Blaze Pizza,4.5,10 Dundas St. East
+23,Hokkaido Ramen Santouka,4.0,91 Dundas Street E
+23,KINKA IZAKAYA ORIGINAL,4.0,398 Church Street
+23,Barberian's Steak House,4.0,7 Elm Street
+23,The Senator,4.0,249 Victoria Street
+23,KINTON RAMEN,4.0,396 Church Street
+23,Gyukatsu Kyoto Katsugyu,4.0,134 Dundas Street E
+23,JOEY Eaton Centre,3.5,1 Dundas St W
+23,Adega Restaurante,4.0,33 Elm St
+23,Katsuya,4.5,66 Gerrard Street E
+23,The Queen And Beaver Public House,4.0,35 Elm Street
+23,George Restaurant,4.5,111 Queen Street E
+23,Page One,4.0,106 Mutual Street
+23,Banh Mi Boys,4.0,399 Yonge Street
+23,The Carbon Bar,4.0,99 Queen Street East
+23,Beerbistro,4.0,18 King Street E
+23,Moon Palace,4.0,40 Dundas Street W
+23,Congee Queen,4.0,360 Yonge Street
+23,Chipotle Mexican Grill,3.5,323 Yonge St
+24,Richmond Station,4.5,1 Richmond Street W
+24,KINKA IZAKAYA ORIGINAL,4.0,398 Church Street
+24,George Restaurant,4.5,111 Queen Street E
+24,Zakkushi On Carlton,4.0,193 Carlton Street
+24,Gyukatsu Kyoto Katsugyu,4.0,134 Dundas Street E
+24,The Keg Steakhouse + Bar,4.0,515 Jarvis Street
+24,The Keg Steakhouse + Bar - York Street,4.0,165 York Street
+24,Cafe Oro Di Napoli,4.5,75 Jarvis Street
+24,Katsuya,4.5,66 Gerrard Street E
+24,The Carbon Bar,4.0,99 Queen Street East
+24,Page One,4.0,106 Mutual Street
+24,J San Sushi Bar,4.5,186 Jarvis Street
+24,The House On Parliament,4.0,454 Parliament Street
+24,Pearl Diver,4.0,100 Adelaide Street E
+24,KINTON RAMEN,4.0,396 Church Street
+24,Hokkaido Ramen Santouka,4.0,91 Dundas Street E
+24,Beerbistro,4.0,18 King Street E
+24,Banh Mi Boys,4.0,399 Yonge Street
+24,Blaze Pizza,4.5,10 Dundas St. East
+24,Adega Restaurante,4.0,33 Elm St
+25,Church's Texas Chicken,4.5,3003 Danforth Avenue
+25,Grillies,4.0,2632 Danforth avenue
+25,ADDA Bengali Kitchen and Catering,5.0,3342 Danforth Avenue
+25,Ritz Caribbean Foods,3.5,3003 Danforth Avenue
+25,Double Sushi,3.5,2795 Danforth Avenue
+25,Len Duckworth Fish & Chips,4.0,2638 Danforth Avenue
+25,Halibut House Fish and Chips,3.5,3003 Danforth Avenue
+25,Bistro Camino,4.5,2750 Danforth Avenue
+25,Quarry Cafe,4.0,2560 Gerrard Street E
+25,Two Brothers Shawarma,4.0,2825 Danforth Avenue
+25,Hakka Chopsticks,4.0,2940 Danforth Avenue
+25,Chopstick Foods,4.0,3300 Danforth Avenue
+25,Ghoroaa Restaurant,3.5,2994 Danforth Avenue
+25,Cafe D Taj,4.0,3342 Danforth Avenue
+25,Su-Good,4.0,2626 Danforth Ave
+25,Subhan Pizza,4.0,2970 Danforth Avenue
+25,Tim Hortons,4.5,3075 Danforth Ave
+25,Red Hot Tandoori,3.5,3030 Danforth Avenue
+25,Brown Box,3.5,3040 Danforth Avenue
+25,Danforth Roti Shop,4.0,2844 Danforth Avenue
+26,Queen of Persia,4.5,672A St Clair Avenue W
+26,Pukka,4.0,778 St. Clair Avenue W
+26,Nodo Restaurant,4.5,794 Saint Clair Avenue W
+26,Sea Witch Fish and Chips,4.0,636 Saint Clair Avenue W
+26,CocoaLatte,4.0,671 St. Clair Avenue W
+26,Thai Noodle,3.5,62 Vaughan Road
+26,Just Another Burger Spot,5.0,630 Saint Clair Avenue W
+26,FK,4.5,770 St Clair Avenue W
+26,Baker and Scone,4.0,693 St. Clair W
+26,Aviv Immigrant Kitchen,4.5,779 St. Clair Avenue W
+26,Emma's Country Kitchen,4.0,810 Saint Clair Avenue W
+26,Kiyo,4.5,1384 Bathurst Street
+26,Mezzetta Restaurant & Tapas Bar,3.5,681 Saint Clair Avenue W
+26,Bar Ape,4.5,283 Rushton Rd
+26,Ferro Bar & Cafe,3.5,769 Saint Clair Avenue W
+26,Dutch Dreams,4.0,36 Vaughan Road
+26,Fat Pasha,4.0,414 Dupont Street
+26,Moong Japanese Fusion Restaurant,3.5,570 St. Clair Avenue W
+26,Kibo Sushi House,3.5,701 Saint Clair Avenue W
+26,Churrasco of St Clair,3.5,679 St Clair Ave W
+27,Union Social Eatery,4.0,21 Saint Clair Avenue W
+27,Megumi Mazesoba,4.5,46 Saint Clair Avenue E
+27,Mary Be Kitchen,4.5,21B St. Clair Avenue W
+27,Holy Chuck,3.5,1450 Yonge Street
+27,Sushi Gen,3.0,1560 Yonge Street
+27,Capocaccia Trattoria,3.5,1366 Yonge Street
+27,Flaming Stove,4.5,21 Davisville Avenue
+27,Sunny Morning,4.0,1392 Yonge Street
+27,The Bagel House,4.0,1438 Yonge Street
+27,The Sprout,3.5,15 St.Clair Avenue W
+27,Umami Poke,4.5,1252 Yonge Street
+27,Barnsteiner's,3.5,1 Balmoral Avenue
+27,Mr Thai,2.5,1521 Yonge Street
+27,Ambiyan on Yonge,4.5,1560 Yonge Street
+27,Playa Cabana Taqueria,4.0,21 St Clair Avenue E
+27,Daeco Sushi,3.5,40 St Clair Avenue W
+27,Tamasha,3.5,1835 Yonge Street
+27,The Red Lantern,3.5,228 Merton Street
+27,Zelden's Deli and Desserts,3.5,1446 Yonge Street
+27,Kiva's Bagel Bar,3.5,15 Saint Clair Avenue W
+28,Tabule Restaurant,4.0,2009 Yonge Street
+28,Flaming Stove,4.5,21 Davisville Avenue
+28,Khau Gully,4.0,1991 Yonge Street
+28,Little Sister,3.5,2031 Yonge Street
+28,Tamasha,3.5,1835 Yonge Street
+28,Hokkaido Ramen Santouka,4.5,2057 Yonge St
+28,Kramer's Bar & Grill,3.0,1915 Yonge Street
+28,Zezafoun Syrian Cuisine,4.5,4 Manor Road E
+28,Yukashi Japanese Cuisine,4.5,643A Mount Pleasant Road
+28,Oyster Mine,4.0,2035 Yonge Street
+28,The Bull: A Firkin Pub,3.5,1835 Yonge Street
+28,Echo Sushi,4.0,2036 Yonge Street
+28,Bolan Thai Cuisine,4.0,709 Mount Pleasant Road
+28,Megumi Mazesoba,4.5,46 Saint Clair Avenue E
+28,Thai Express,3.5,1881 Yonge Street
+28,Lola Sushi,4.0,2070 Yonge Street
+28,Positano Restaurant,4.0,633 Mount Pleasant Road
+28,Zee Grill Seafood Restaurant & Oyster Bar,4.0,641 Mount Pleasant Road
+28,Rachel's Coffee House,4.0,2011 Yonge Street
+28,My Roti Place,4.0,2013 Yonge Street
+29,Pai Northern Thai Kitchen,4.5,18 Duncan Street
+29,Hunters Landing,3.5,82 Fort York Blvd
+29,Rodney's Oyster House,4.0,469 King Street W
+29,Gusto 101,4.0,101 Portland Street
+29,Mira,4.5,420A Wellington Street W
+29,Byblos,4.5,11 Duncan Street
+29,Sansotei Ramen,4.0,115 Fort York Boulevard
+29,Le Sélect Bistro,4.0,432 Wellington Street W
+29,Jacobs & Co. Steakhouse,4.5,12 Brant Street
+29,Alo Restaurant,4.5,163 Spadina Avenue
+29,Wvrst,4.0,609 King Street W
+29,Buca,4.0,604 King Street W
+29,Chubby's Jamaican Kitchen,4.0,104 Portland Street
+29,The Morning After,3.5,88 Fort York Boulevard
+29,Khao San Road,4.0,11 Charlotte Street
+29,Lee,4.0,497 Richmond Street W
+29,Aloette,4.5,163 Spadina Avenue
+29,Akira Back,4.0,80 Blue Jays Way
+29,Wilbur Mexicana,4.0,552 King Street W
+29,Roywoods,3.5,121 Fort York Boulevard
+30,Gyubee Japanese Grill - Bloor,4.0,335 Bloor Street W
+30,Fieramosca,4.5,36A Prince Arthur Avenue
+30,Rasa,4.5,196 Robert Street
+30,Yasu,4.5,81 Harbord Street
+30,Opus Restaurant,4.0,37 Prince Arthur Avenue
+30,Her Father's Cider Bar & Kitchen,4.5,119 Harbord Street
+30,Joso's,4.5,202 Davenport Road
+30,Blu Ristorante,4.0,90 Avenue Road
+30,Trattoria Nervosa,4.0,75 Yorkville Avenue
+30,Playa Cabana,4.0,111 Dupont Street
+30,KINKA IZAKAYA ANNEX,4.0,559 Bloor St W
+30,The Oxley,4.0,121 Yorkville Avenue
+30,Bar Mercurio,3.5,270 Bloor Street W
+30,PLANTA Yorkville,4.0,1221 Bay Street
+30,The Bedford Academy,3.5,36 Prince Arthur Ave
+30,Fresh Kitchen + Juice Bar,3.5,326 Bloor Street W
+30,Morton's The Steakhouse,4.0,4 Avenue Road
+30,Pig Out BBQ,4.0,650 Spadina Avenue
+30,Piano Piano,3.5,88 Harbord Street
+30,The Bata Shoe Museum,4.0,327 Bloor Street W
+31,Pai Northern Thai Kitchen,4.5,18 Duncan Street
+31,Cafe Landwer - Adelaide & University,4.0,165 University Avenue
+31,King Taps,4.0,100 King Street W
+31,Cactus Club Cafe,4.0,77 Adelaide Street W
+31,Canoe,4.0,66 Wellington Street  W
+31,The Keg Steakhouse + Bar - York Street,4.0,165 York Street
+31,Richmond Station,4.5,1 Richmond Street W
+31,Estiatorio Volos,4.0,133 Richmond St W
+31,Earls Kitchen + Bar,3.5,150 King Street West
+31,Michael's on Simcoe,4.0,100 Simcoe Street
+31,Kōjin,4.0,190 University Ave
+31,Byblos,4.5,11 Duncan Street
+31,Chefs Hall,4.0,111 Richmond Street W
+31,Bymark,3.5,66 Wellington Street W
+31,Beerbistro,4.0,18 King Street E
+31,Pizzeria Libretto,3.5,155 University Avenue
+31,Library Bar,4.0,100 Front Street W
+31,Lee Chen Asian Bistro - King,4.0,214 King Street W
+31,Lobster Burger Bar,4.0,214 King Street W
+31,John & Sons Oyster House,4.0,56 Temperance Street
+32,Dzo Viet Eatery,4.0,308 Dundas Street W
+32,Pai Northern Thai Kitchen,4.5,18 Duncan Street
+32,Sansotei Ramen,4.0,179 Dundas Street W
+32,Koh Lipe,4.0,35 Baldwin Street
+32,Richmond Station,4.5,1 Richmond Street W
+32,Omai Restaurant,4.0,3 Baldwin Street
+32,Mogouyan Hand-Pulled Noodles,4.5,124 Dundas St W
+32,Byblos,4.5,11 Duncan Street
+32,Gyubee Japanese Grill - Dundas,4.5,157 Dundas St W
+32,Hong Shing Chinese Restaurant,3.5,195 Dundas Street W
+32,Manpuku Japanese Eatery,4.0,105 McCaul Street
+32,Yuugi Izakaya,4.5,49 Baldwin Street
+32,The Keg Steakhouse + Bar - York Street,4.0,165 York Street
+32,Alo Restaurant,4.5,163 Spadina Avenue
+32,1915 Lan Zhou Ramen,4.0,185 Dundas Street W
+32,Adega Restaurante,4.0,33 Elm St
+32,Aloette,4.5,163 Spadina Avenue
+32,Midi Bistro,3.5,168 McCaul Street
+32,The Queen And Beaver Public House,4.0,35 Elm Street
+32,Light Cafe,4.0,23 Baldwin Street
+33,Megumi Mazesoba,4.5,46 Saint Clair Avenue E
+33,Scaramouche Restaurant Pasta Bar & Grill,4.5,1 Benvenuto Place
+33,Capocaccia Trattoria,3.5,1366 Yonge Street
+33,Union Social Eatery,4.0,21 Saint Clair Avenue W
+33,Holy Chuck,3.5,1450 Yonge Street
+33,Sunny Morning,4.0,1392 Yonge Street
+33,Barnsteiner's,3.5,1 Balmoral Avenue
+33,Mary Be Kitchen,4.5,21B St. Clair Avenue W
+33,The Bagel House,4.0,1438 Yonge Street
+33,Umami Poke,4.5,1252 Yonge Street
+33,Terroni,3.0,1095 Yonge Street
+33,Playa Cabana Taqueria,4.0,21 St Clair Avenue E
+33,Boxcar Social,4.0,1208 Yonge Street
+33,Sorrel,3.5,1158 Yonge Street
+33,Rosedale Diner,3.5,1164 Yonge Street
+33,Zelden's Deli and Desserts,3.5,1446 Yonge Street
+33,Twisted Indian Wraps,4.5,60 St Clair Avenue East
+33,Boccone Deli & Pizza,4.0,1378 Yonge Street
+33,The Sprout,3.5,15 St.Clair Avenue W
+33,Tamasha,3.5,1835 Yonge Street
+34,Sugo,4.5,1281 Bloor Street W
+34,Barque Smokehouse,4.0,299 Roncesvalles Avenue
+34,The Gaslight,4.5,1426 Bloor Street W
+34,The Commoner,4.0,2067 Dundas Street W
+34,Bawara,4.5,1570 Bloor St W
+34,Outpost Coffee Roasters,4.5,1578 Bloor Street W
+34,Osaka Sushi Japanese Restaurant,4.0,1620 Bloor Street W
+34,Musoshin Ramen,4.0,9 Boustead Ave
+34,Honest Weight,4.5,2766 Dundas Street W
+34,Whelan's Gate Gastropub,4.5,1663 Bloor Street W
+34,King Slice,3.5,1598 Bloor St W
+34,Pizzeria Defina,4.0,321 Roncesvalles Ave
+34,Fantasy Kitchen,5.0,2385 Dundas Street W
+34,Pita Boss Grill Toronto,4.5,1566 Bloor Street W
+34,La Cubana,3.5,392 Roncesvalles Avenue
+34,Ali Baba's Middle Eastern Cuisine,3.5,2202 Dundas Street W
+34,Mister Yummy,4.0,2340 Dundas Street W
+34,The Mugshot Tavern,4.0,1729 Bloor Street W
+34,Juniors Pizza,4.0,2243 Dundas Street W
+34,Kibo Sushi House,4.5,1415 Bloor Street W
+35,Pai Northern Thai Kitchen,4.5,18 Duncan Street
+35,Gusto 101,4.0,101 Portland Street
+35,Byblos,4.5,11 Duncan Street
+35,Rodney's Oyster House,4.0,469 King Street W
+35,Sansotei Ramen,4.0,115 Fort York Boulevard
+35,Wvrst,4.0,609 King Street W
+35,Hunters Landing,3.5,82 Fort York Blvd
+35,Mira,4.5,420A Wellington Street W
+35,Buca,4.0,604 King Street W
+35,The Morning After,3.5,88 Fort York Boulevard
+35,Chubby's Jamaican Kitchen,4.0,104 Portland Street
+35,Jacobs & Co. Steakhouse,4.5,12 Brant Street
+35,Lee,4.0,497 Richmond Street W
+35,Le Sélect Bistro,4.0,432 Wellington Street W
+35,Khao San Road,4.0,11 Charlotte Street
+35,Wilbur Mexicana,4.0,552 King Street W
+35,Campechano Taquería,4.0,504 Adelaide Street W
+35,La Palette,4.0,492 Queen Street W
+35,Akira Back,4.0,80 Blue Jays Way
+35,Roywoods,3.5,121 Fort York Boulevard
+36,Rasa,4.5,196 Robert Street
+36,Her Father's Cider Bar & Kitchen,4.5,119 Harbord Street
+36,Yasu,4.5,81 Harbord Street
+36,Piano Piano,3.5,88 Harbord Street
+36,Pig Out BBQ,4.0,650 Spadina Avenue
+36,Harbord House,3.5,124 Harbord Street
+36,Dreyfus,4.0,96 Harbord Street
+36,Ramen Isshin,4.5,421 College Street
+36,Almond Butterfly Harbord Bakeshop & Cafe,4.5,100 Harbord Street
+36,Saigon Lotus,4.5,6 St Andrew Street
+36,DaiLo,4.0,503 College Street
+36,Bar Raval,4.0,505 College Street
+36,Seven Lives Tacos y Mariscos,4.5,72 Kensington Avenue
+36,Dzo Viet Eatery,4.0,308 Dundas Street W
+36,KINKA IZAKAYA ANNEX,4.0,559 Bloor St W
+36,Akai Sushi,4.0,168 Major Street
+36,Grey Gardens,4.5,199 Augusta Avenue
+36,Gyubee Japanese Grill - Bloor,4.0,335 Bloor Street W
+36,Fieramosca,4.5,36A Prince Arthur Avenue
+36,Magic Noodle,3.0,93 Harbord Street
+37,Honest Weight,4.5,2766 Dundas Street W
+37,Indie Ale House,4.0,2876 Dundas Street W
+37,The Hole In the Wall,4.5,2867 Dundas Street W
+37,Luna Junction,4.5,2800 Dundas St W
+37,Tuckshop Kitchen,4.5,1640 Dupont Street
+37,Nodo - Junction,4.0,2885 Dundas Street West
+37,Mattachioni,4.0,1617 Dupont Street
+37,Chica's Nashville Hot Chicken,4.5,2853 Dundas Street W
+37,When The Pig Came Home,4.5,384 Keele Street
+37,Cool Hand of a Girl,3.5,2804 Dundas Street W
+37,The Butternut Baking,4.5,2743 Dundas Street W
+37,The Alpine,4.0,2872 Dundas Street W
+37,Isaan Der,4.0,2961 Dundas Street W
+37,Playa Cabana Cantina,3.5,2883 Dundas Street W
+37,Taste Seduction,4.5,399 Keele Street
+37,Rancho Relaxo To Go,3.5,1635 Dupont Street
+37,West Toronto Rail Path,5.0,Cariboo Ave
+37,Tam Vietnamese Street Food & Cafe,4.5,369 Keele Street
+37,Lucia,4.0,1595 Dupont Street
+37,Baguette & Co,4.5,2772 Dundas St W
+38,Sugo,4.5,1281 Bloor Street W
+38,Osaka Sushi Japanese Restaurant,4.0,1620 Bloor Street W
+38,Bawara,4.5,1570 Bloor St W
+38,Whelan's Gate Gastropub,4.5,1663 Bloor Street W
+38,Outpost Coffee Roasters,4.5,1578 Bloor Street W
+38,The Gaslight,4.5,1426 Bloor Street W
+38,King Slice,3.5,1598 Bloor St W
+38,Honest Weight,4.5,2766 Dundas Street W
+38,The Commoner,4.0,2067 Dundas Street W
+38,Fantasy Kitchen,5.0,2385 Dundas Street W
+38,Musoshin Ramen,4.0,9 Boustead Ave
+38,Luna Junction,4.5,2800 Dundas St W
+38,Pizzeria Defina,4.0,321 Roncesvalles Ave
+38,Pita Boss Grill Toronto,4.5,1566 Bloor Street W
+38,The Merseyside,4.5,2413 Dundas Street W
+38,La Cubana,3.5,392 Roncesvalles Avenue
+38,The Mugshot Tavern,4.0,1729 Bloor Street W
+38,Mister Yummy,4.0,2340 Dundas Street W
+38,Chica's Nashville Hot Chicken,4.5,2853 Dundas Street W
+38,Hula Girl Espresso Boutique,4.0,2473 Dundas Street W
+39,The Cottage Cheese,4.5,64 Oxford Street
+39,Ramen Isshin,4.5,421 College Street
+39,The Burgernator,4.0,269 Augusta Avenue
+39,Voodoo Child,4.0,388 College Street
+39,Otto's Berlin Döner,4.0,256 Augusta Avenue
+39,Bar Raval,4.0,505 College Street
+39,DaiLo,4.0,503 College Street
+39,Rasa,4.5,196 Robert Street
+39,Grey Gardens,4.5,199 Augusta Avenue
+39,El Trompo Taco Bar,4.0,277 Augusta Ave
+39,Her Father's Cider Bar & Kitchen,4.5,119 Harbord Street
+39,Yasu,4.5,81 Harbord Street
+39,Free Times Cafe,3.5,320 College Street
+39,Seven Lives Tacos y Mariscos,4.5,72 Kensington Avenue
+39,Top Gun Burgers,3.5,251 Augusta Avenue
+39,Hawker,5.0,291 Augusta Ave
+39,Quetzal,4.0,419 College Street
+39,Sue Fung's Dim Sum Canteen,4.0,356 College Street
+39,Aloette,4.5,163 Spadina Avenue
+39,Saigon Lotus,4.5,6 St Andrew Street
+40,KINKA IZAKAYA ORIGINAL,4.0,398 Church Street
+40,Katsuya,4.5,66 Gerrard Street E
+40,KINTON RAMEN,4.0,396 Church Street
+40,Hair of the Dog,4.0,425 Church Street
+40,Gurume Sushi,5.0,45 Carlton Street
+40,Banh Mi Boys,4.0,399 Yonge Street
+40,Kintaro Izakaya,4.0,459 Church Street
+40,The Keg Steakhouse + Bar,4.0,515 Jarvis Street
+40,Afuri,4.0,411 Church Street
+40,Barberian's Steak House,4.0,7 Elm Street
+40,Adega Restaurante,4.0,33 Elm St
+40,Blaze Pizza,4.5,10 Dundas St. East
+40,George Restaurant,4.5,111 Queen Street E
+40,Congee Queen,4.0,360 Yonge Street
+40,The Queen And Beaver Public House,4.0,35 Elm Street
+40,Edomae Kiyomi,4.0,76 Gerrard Street E
+40,Zakkushi On Carlton,4.0,193 Carlton Street
+40,Thai On Yonge,4.0,370 Yonge Street
+40,Bocconcini Toronto,4.5,96 Gerrard Street E
+40,W Burger Bar,3.5,10 College Street
+41,Gusto 101,4.0,101 Portland Street
+41,Rodney's Oyster House,4.0,469 King Street W
+41,Iruka Sushi,3.5,550 Queens Quay W
+41,Sansotei Ramen,4.0,115 Fort York Boulevard
+41,Mira,4.5,420A Wellington Street W
+41,Jacobs & Co. Steakhouse,4.5,12 Brant Street
+41,Le Sélect Bistro,4.0,432 Wellington Street W
+41,Buca,4.0,604 King Street W
+41,Chubby's Jamaican Kitchen,4.0,104 Portland Street
+41,Hunters Landing,3.5,82 Fort York Blvd
+41,Wvrst,4.0,609 King Street W
+41,Akira Back,4.0,80 Blue Jays Way
+41,Beast Pizza,4.0,96 Tecumseth Street
+41,The Keg Steakhouse + Bar,4.0,560 King Street W
+41,TOCA,4.0,181 Wellington Street W
+41,Roywoods,3.5,121 Fort York Boulevard
+41,Wilbur Mexicana,4.0,552 King Street W
+41,Aanch,4.0,259 Wellington St W
+41,Guirei Japanese Restaurant,3.5,600 Queens Quay W
+41,Scooped by Demetres,4.5,113 Fort York Boulevard
+42,KINKA IZAKAYA ORIGINAL,4.0,398 Church Street
+42,KINTON RAMEN,4.0,396 Church Street
+42,Banh Mi Boys,4.0,399 Yonge Street
+42,Adega Restaurante,4.0,33 Elm St
+42,The Queen And Beaver Public House,4.0,35 Elm Street
+42,Barberian's Steak House,4.0,7 Elm Street
+42,Congee Queen,4.0,360 Yonge Street
+42,Richmond Station,4.5,1 Richmond Street W
+42,W Burger Bar,3.5,10 College Street
+42,Donatello Restaurant,4.0,37 Elm Street
+42,Gurume Sushi,5.0,45 Carlton Street
+42,Thai On Yonge,4.0,370 Yonge Street
+42,Katsuya,4.5,66 Gerrard Street E
+42,Bangkok Garden Restaurant,3.0,18 Elm Street
+42,Konjiki Ramen Downtown,4.0,41 Elm Street
+42,Salad King Restaurant,3.5,340 Yonge Street
+42,Blaze Pizza,4.5,10 Dundas St. East
+42,Fran's Restaurant,3.5,20 College Street
+42,The Keg Steakhouse + Bar,4.0,515 Jarvis Street
+42,Daldongnae Korean BBQ - Dundas Square,4.5,361 Yonge Street
+43,Pai Northern Thai Kitchen,4.5,18 Duncan Street
+43,Real Sports,3.5,15 York Street
+43,Richmond Station,4.5,1 Richmond Street W
+43,Taverna Mercatto,3.5,120 Bremner Boulevard
+43,Canoe,4.0,66 Wellington Street  W
+43,Kellys Landing,3.5,123 Front Street W
+43,Miku,4.0,105-10 Bay Street
+43,Library Bar,4.0,100 Front Street W
+43,Chotto Matte,4.0,161 Bay Street
+43,E11even,3.5,15 York Street
+43,WVRST Union Station,4.0,65 Front Street West
+43,Harbour 60,3.5,60 Harbour Street
+43,KINKA IZAKAYA HARBOURFRONT,4.0,110 Harbour Street
+43,Byblos,4.5,11 Duncan Street
+43,Union Chicken,3.5,65 Front Street W
+43,The Loose Moose,3.5,146 Front Street West
+43,Beerbistro,4.0,18 King Street E
+43,SOCO Kitchen + Bar,3.5,75 Lower Simcoe Street
+43,King Taps,4.0,100 King Street W
+43,Evviva Breakfast & Lunch,4.0,25 Lower Simcoe
+44,Zakkushi On Carlton,4.0,193 Carlton Street
+44,The Keg Steakhouse + Bar,4.0,515 Jarvis Street
+44,The House On Parliament,4.0,454 Parliament Street
+44,KINKA IZAKAYA ORIGINAL,4.0,398 Church Street
+44,Stout Irish Pub,4.0,221 Carlton Street
+44,Kintaro Izakaya,4.0,459 Church Street
+44,Katsuya,4.5,66 Gerrard Street E
+44,Storm Crow Manor,4.0,580 Church Street
+44,Chew Chew's Diner,4.0,186 Carlton Street
+44,KINTON RAMEN,4.0,396 Church Street
+44,Adega Restaurante,4.0,33 Elm St
+44,Hair of the Dog,4.0,425 Church Street
+44,The Blake House,4.0,449 Jarvis Street
+44,Si Lom Thai Bistro,4.0,534 Church Street
+44,F'Amelia,3.5,12 Amelia Street
+44,Barberian's Steak House,4.0,7 Elm Street
+44,The Queen And Beaver Public House,4.0,35 Elm Street
+44,Banh Mi Boys,4.0,399 Yonge Street
+44,Mr Jerk,4.0,209 Wellesley Street E
+44,Tinuno,4.0,31 Howard Street
+45,Pai Northern Thai Kitchen,4.5,18 Duncan Street
+45,Byblos,4.5,11 Duncan Street
+45,Rodney's Oyster House,4.0,469 King Street W
+45,Gusto 101,4.0,101 Portland Street
+45,Mira,4.5,420A Wellington Street W
+45,Hunters Landing,3.5,82 Fort York Blvd
+45,Le Sélect Bistro,4.0,432 Wellington Street W
+45,Akira Back,4.0,80 Blue Jays Way
+45,Alo Restaurant,4.5,163 Spadina Avenue
+45,Jacobs & Co. Steakhouse,4.5,12 Brant Street
+45,Khao San Road,4.0,11 Charlotte Street
+45,Lee,4.0,497 Richmond Street W
+45,Buca,4.0,604 King Street W
+45,Aloette,4.5,163 Spadina Avenue
+45,Chubby's Jamaican Kitchen,4.0,104 Portland Street
+45,Chin Chin Street Side Kitchen,3.5,363 Bremner Boulevard
+45,Wvrst,4.0,609 King Street W
+45,The Haam,4.0,342 Adelaide St W
+45,The Morning After,3.5,88 Fort York Boulevard
+45,360 Restaurant,3.5,CN Tower
+46,Grey Gardens,4.5,199 Augusta Avenue
+46,Saigon Lotus,4.5,6 St Andrew Street
+46,Seven Lives Tacos y Mariscos,4.5,72 Kensington Avenue
+46,Fudao noodle house,4.0,358 Spadina ave
+46,The Cottage Cheese,4.5,64 Oxford Street
+46,The Burgernator,4.0,269 Augusta Avenue
+46,Pizzeria Via Mercanti,3.5,188 Augusta Avenue
+46,Rikki Tikki,5.0,209 Augusta Avenue
+46,Top Gun Burgers,3.5,251 Augusta Avenue
+46,Juicy Dumpling,4.0,280 Spadina Ave
+46,Belgian Sweet Corner - Lekker,4.5,237 Augusta Avenue
+46,Ajisen Ramen,3.5,332 Spadina Avenue
+46,Chine Legendary Hot Pot & Noodles,4.0,327 Spadina Avenue
+46,Fresco's Fish & Chips,4.5,201 Augusta Avenue
+46,Film Cafe by Eative,3.5,230 Augusta Avenue
+46,Alo Restaurant,4.5,163 Spadina Avenue
+46,Bar Raval,4.0,505 College Street
+46,Aloette,4.5,163 Spadina Avenue
+46,Shi Miaodao Yunnan Rice Noodle,4.0,318 Spadina Avenue
+46,Otto's Berlin Döner,4.0,256 Augusta Avenue
+47,Sugo,4.5,1281 Bloor Street W
+47,Antler Kitchen & Bar,4.5,1454 Dundas Street West
+47,Le Baratin,4.5,1600 Dundas Street. W
+47,Café Polonez,4.5,195 Roncesvalles Avenue
+47,Barque Smokehouse,4.0,299 Roncesvalles Avenue
+47,Good Fork,4.0,1550 Dundas Street W
+47,The Commoner,4.0,2067 Dundas Street W
+47,The Ace,4.0,231A Roncesvalles Avenue
+47,Pho Linh,4.0,1156 College Street W
+47,Takht-e Tavoos,4.5,1120 College Street
+47,Pizzeria Defina,4.0,321 Roncesvalles Ave
+47,The Federal,4.0,1438 Dundas Street W
+47,La Cubana,3.5,392 Roncesvalles Avenue
+47,Bar Neon,4.0,1226 Bloor Street W
+47,Brazil Bakery and Pastry,4.0,1566 Dundas Street W
+47,Burdock,3.5,1184 Bloor Street W
+47,African Palace,4.0,977 Bloor Street W
+47,Viaggio,4.0,1727 Dundas St W
+47,Wenona Craft Beer Lodge,4.0,1069 Bloor Street W
+47,The Gaslight,4.5,1426 Bloor Street W
+48,Le Baratin,4.5,1600 Dundas Street. W
+48,Café Polonez,4.5,195 Roncesvalles Avenue
+48,Sugo,4.5,1281 Bloor Street W
+48,The Commoner,4.0,2067 Dundas Street W
+48,Barque Smokehouse,4.0,299 Roncesvalles Avenue
+48,Guu Izakaya Toronto,4.0,1314 Queen Street W
+48,Good Fork,4.0,1550 Dundas Street W
+48,Viaggio,4.0,1727 Dundas St W
+48,The Ace,4.0,231A Roncesvalles Avenue
+48,Pizzeria Defina,4.0,321 Roncesvalles Ave
+48,Takht-e Tavoos,4.5,1120 College Street
+48,Pho Linh,4.0,1156 College Street W
+48,Peter's No Frills,4.0,222 Lansdowne Avenue
+48,La Cubana,3.5,392 Roncesvalles Avenue
+48,Brazil Bakery and Pastry,4.0,1566 Dundas Street W
+48,Dil Se Indian Restaurant & Bar,4.5,335 Roncesvalles Avenue
+48,Burdock,3.5,1184 Bloor Street W
+48,Bar Neon,4.0,1226 Bloor Street W
+48,The Gaslight,4.5,1426 Bloor Street W
+48,Arabesque Middle Eastern Foods,4.5,1068 College Street
+49,Le Baratin,4.5,1600 Dundas Street. W
+49,Antler Kitchen & Bar,4.5,1454 Dundas Street West
+49,Café Polonez,4.5,195 Roncesvalles Avenue
+49,Sugo,4.5,1281 Bloor Street W
+49,Viaggio,4.0,1727 Dundas St W
+49,Good Fork,4.0,1550 Dundas Street W
+49,Barque Smokehouse,4.0,299 Roncesvalles Avenue
+49,Giulietta,4.0,972 College Street
+49,Pho Linh,4.0,1156 College Street W
+49,Takht-e Tavoos,4.5,1120 College Street
+49,Brazil Bakery and Pastry,4.0,1566 Dundas Street W
+49,Imanishi Japanese Kitchen,4.0,1330 Dundas Street W
+49,Lula Lounge,3.5,1585 Dundas Street W
+49,The Ace,4.0,231A Roncesvalles Avenue
+49,The Commoner,4.0,2067 Dundas Street W
+49,Pizzeria Defina,4.0,321 Roncesvalles Ave
+49,The Federal,4.0,1438 Dundas Street W
+49,Peter's No Frills,4.0,222 Lansdowne Avenue
+49,La Cubana,3.5,392 Roncesvalles Avenue
+49,Burdock,3.5,1184 Bloor Street W
+50,Bar Isabel,4.0,797 College Street
+50,The Caledonian,4.5,856 College Street
+50,Chiado,4.0,864 College Street
+50,Giulietta,4.0,972 College Street
+50,Antler Kitchen & Bar,4.5,1454 Dundas Street West
+50,Imm Thai Kitchen,4.5,651 College Street
+50,La Banane,4.5,227 Ossington Avenue
+50,Regina Pizzeria & Trattoria,4.0,782 College Street
+50,Vos Restaurante Argentino,4.0,847 College st
+50,Bellwoods Brewery,4.0,124-126 Ossington Avenue
+50,Pizzeria Libretto,4.0,221 Ossington Avenue
+50,College Falafel,4.0,450 Ossington Ave
+50,Mamakas Taverna,4.0,80 Ossington Avenue
+50,Enoteca Sociale,4.0,1288 Dundas St W
+50,Union,4.0,72A Ossington Avenue
+50,The Night Baker,4.0,825 College Street
+50,The Daily Dumpling Wonton Co,4.0,792 College St
+50,Taverniti,4.0,591 College Street
+50,La Bella Managua,4.5,872 Bloor Street W
+50,Imanishi Japanese Kitchen,4.0,1330 Dundas Street W
